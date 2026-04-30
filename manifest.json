@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "WP Auto Ad Inserter",
+  "version": "1.0",
+  "description": "Chèn quảng cáo tự động vào bài viết WordPress (Bản cơ bản).",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*/wp-admin/post.php*", "*://*/wp-admin/post-new.php*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["inject.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
