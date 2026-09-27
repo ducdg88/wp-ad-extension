@@ -22,3 +22,8 @@ Mọi đóng góp và phản hồi vui lòng tạo Issue hoặc Pull Request.
 
 ---
 *Phát triển bởi hoangvant77internet-sudo*
+
+
+---
+
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=wp-ad-extension) — AI agents, automation and digital products for one-person businesses. 
