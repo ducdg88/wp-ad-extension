@@ -4,6 +4,8 @@
 
 **Viết xong bài trong WordPress → bấm một nút, mã quảng cáo tự chèn đúng chỗ.**
 
+**Finish writing a WordPress post → click one button, the ad code inserts itself in the right spot.**
+
 **WP Auto Ad Inserter** is a Chrome extension that automatically inserts ad code into posts in the WordPress editor (Gutenberg/Classic Editor).
 
 **WP Auto Ad Inserter** là một tiện ích mở rộng trình duyệt (Chrome Extension) giúp tự động chèn mã quảng cáo vào bài viết trong trình soạn thảo WordPress (Gutenberg/Classic Editor).
